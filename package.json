@@ -1,6 +1,6 @@
 {
-  "name": "magix-combine-1.2.10-ex",
-  "version": "1.2.10",
+  "name": "magix-combine-ex",
+  "version": "1.0.0",
   "description": "magix-combine 1.2.10版本里依赖的cssnano:>=3.7.5，导致安装的版本为4.x.x，出现不兼容情况，这里新切一个仓库出来 ，固定cssnano版本为：3.7.5",
   "main": "index.js",
   "repository": {
