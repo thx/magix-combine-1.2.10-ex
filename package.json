@@ -1,0 +1,29 @@
+{
+  "name": "magix-combine-1.2.10-ex",
+  "version": "1.2.10",
+  "description": "magix-combine 1.2.10版本里依赖的cssnano:>=3.7.5，导致安装的版本为4.x.x，出现不兼容情况，这里新切一个仓库出来 ，固定cssnano版本为：3.7.5",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thx/magix-combine-1.2.10-ex.git"
+  },
+  "keywords": [
+    "magix",
+    "view"
+  ],
+  "dependencies": {
+    "cssnano": "3.7.5",
+    "html-minifier": "3.0.3",
+    "less": "2.5.0",
+    "node-sass": "3.8.0"
+  },
+  "author": "xinglie <xinglie.lkf@taobao.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thx/magix-combine/issues"
+  },
+  "homepage": "https://github.com/thx/magix-combine#readme",
+  "__npminstall_done": "Wed Sep 19 2018 12:16:36 GMT+0800 (CST)",
+  "_from": "magix-combine@1.2.10",
+  "_resolved": "http://registry.npm.alibaba-inc.com/magix-combine/download/magix-combine-1.2.10.tgz"
+}
